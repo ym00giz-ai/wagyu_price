@@ -28,6 +28,10 @@ p {
 .result a {
   color: #343a40;
 }
+.submit-color {
+  color: #ddd;
+  background-color: blue;
+}
 
 @media screen and (min-width:576px) {
   .row {
